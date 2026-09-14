@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" height="400" style="object-fit: cover; object-position: center;">
+  <img src="./assets/java.gif" width="100%" height="400" style="object-fit: cover; object-position: center;">
 </p>
 
 # Android developer 🖥️
