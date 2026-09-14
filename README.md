@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./assets/Java.gif" width="100%" height="400" style="object-fit: cover; object-position: center 20%;">
-</p>
+<div style="width: 100%; height: 500px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <img src="./assets/banner.gif" style="width: 100%; margin-top: -100px; margin-bottom: -100px;">
+</div>
 
 # Android developer 🖥️
 Hi, mi name is Luis. Welcome to my drafts. 
