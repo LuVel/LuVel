@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Java.gif" width="800">
+  <img src="./assets/Java.gif" width="100%">
 </p>
 
 # Android developer 🖥️
