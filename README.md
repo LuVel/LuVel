@@ -2,7 +2,7 @@
   <img src="./assets/Java_cropped.gif" width="100%" >
 </p>
 
-# Android developer 🖥️
+# I´m Android developer 🖥️
 Hi, mi name is Luis. Welcome to my drafts. 
 I like to program to transform my ideas into reality. 
 
